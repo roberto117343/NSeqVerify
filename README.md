@@ -104,7 +104,7 @@ No complex installation is needed. Simply download the `.jar` file from the link
 
 ```bash
 java -jar NSeqVerify-0.0.1.jar
----
+```
 
 ### General Workflow:
 1.  **Load Input File**: Click `Input` to load your FASTQ file (for preprocessing) or a plain text/FASTA file of sequences (for assembly/classification).
