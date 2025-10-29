@@ -101,9 +101,10 @@ NOTA: Para que la captura de pantalla funcione, sube una imagen llamada 'gui_scr
 ### Using the App (NSeqVerify-0.0.1.jar)
 
 No complex installation is needed. Simply download the `.jar` file from the link at the top and run it from your terminal:
+
 ```bash
 java -jar NSeqVerify-0.0.1.jar
-
+```bash
 
 ### General Workflow:
 1.  **Load Input File**: Click `Input` to load your FASTQ file (for preprocessing) or a plain text/FASTA file of sequences (for assembly/classification).
