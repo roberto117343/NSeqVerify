@@ -4,7 +4,7 @@ A Java-based desktop application for the **integrated analysis of Next-Generatio
 
 <p align="center">
   <img src="https://github.com/roberto117343/NSeqVerify/blob/main/NSeqVerify/logo%20NSeqVerify.png" 
-       alt="NSeqVerify Logo" width="200"/>
+       alt="NSeqVerify Logo" width="500"/>
 </p>
 
 <p align="center">
