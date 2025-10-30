@@ -3,12 +3,9 @@
 A Java-based desktop application for the **integrated analysis of Next-Generation Sequencing (NGS) data**, from raw FASTQ reads to assembled and annotated genomes.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/NSeqVerify/main/logo.png" 
+  <img src="[https://raw.githubusercontent.com/roberto117343/NSeqVerify/main/logo.png](https://github.com/roberto117343/NSeqVerify/blob/main/NSeqVerify/logo%20NSeqVerify.png)" 
        alt="NSeqVerify Logo" width="200"/>
 </p>
-<!-- 
-NOTA: Para que el logo funcione, sube una imagen llamada 'logo.png' a la raíz de tu repositorio de GitHub. 
--->
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
