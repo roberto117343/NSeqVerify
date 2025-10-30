@@ -72,7 +72,7 @@ The final stage provides a biological identity to your assembled contigs. The mo
 ## ✨ Key Features of the GUI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/NSeqVerify/main/gui_screenshot.png" alt="NSeqVerify GUI Screenshot" width="450"/>
+  <img src="https://github.com/roberto117343/NSeqVerify/blob/main/NSeqVerify/GUI%20NSeqVerify.png" alt="NSeqVerify GUI Screenshot" width="450"/>
 </p>
 <!-- 
 NOTA: Para que la captura de pantalla funcione, sube una imagen llamada 'gui_screenshot.png' a la raíz de tu repositorio. 
