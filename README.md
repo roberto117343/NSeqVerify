@@ -12,7 +12,7 @@ NOTA: Para que el logo funcione, sube una imagen llamada 'logo.png' a la raíz d
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
-  <img src="https://img.shields.io/badge/Java-8+-orange.svg" alt="Java Version"/>
+  <img src="https://img.shields.io/badge/Java-11+-orange.svg" alt="Java Version"/>
   <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg" alt="Platform"/>
 </p>
 
@@ -96,7 +96,7 @@ NOTA: Para que la captura de pantalla funcione, sube una imagen llamada 'gui_scr
 ## 📦 Installation & Usage
 
 ### Requirements
-*   **Java Runtime Environment (JRE)** version 8 or higher.
+*   **Java Runtime Environment (JRE)** version 11 or higher.
 
 ### Using the App (NSeqVerify-0.0.1.jar)
 
@@ -119,7 +119,7 @@ java -jar NSeqVerify-0.0.1.jar
 
 If you use NSeqVerify in your research, please cite the accompanying preprint:
 
-> Reinosa Fernández, R. (2024). NSeqVerify: A User-Friendly Desktop Suite for Integrated NGS Data Analysis, from Raw Reads to Taxonomic Assignment. *[Name of preprint server, e.g., bioRxiv, with DOI link]*.
+> coming soon.
 
 ---
 
