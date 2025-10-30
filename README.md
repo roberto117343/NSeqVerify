@@ -17,7 +17,7 @@ NOTA: Para que el logo funcione, sube una imagen llamada 'logo.png' a la raíz d
 </p>
 
 <p align="center">
-  <a href="https://github.com/roberto117343/NSeqVerify/releases/download/v0.0.1/NSeqVerify-0.0.1.jar" style="text-decoration:none;">
+  <a href="https://github.com/roberto117343/NSeqVerify/blob/main/NSeqVerify/target/NSeqVerify-0.0.1.jar" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Download-NSeqVerify--0.0.1.jar-brightgreen?style=for-the-badge&logo=github" alt="Download .jar"/>
   </a>
 </p>
