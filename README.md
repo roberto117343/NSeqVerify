@@ -117,7 +117,9 @@ java -jar NSeqVerify-0.0.1.jar
 
 If you use NSeqVerify in your research, please cite the accompanying preprint:
 
-> coming soon.
+>  NSeqVerify: An Easy-to-Use Desktop Suite for Integrated NGS Data Analysis, from Raw Reads to Taxonomic Assignment
+Roberto Reinosa Fernández
+bioRxiv 2025.10.31.685854; doi: https://doi.org/10.1101/2025.10.31.685854
 
 ---
 
